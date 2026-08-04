@@ -9,20 +9,20 @@
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/BSC-%20(CA)-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jharkhand-India-4A00E0?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BSC-%20(CA)-D6E2E9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jharkhand-India-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/raja-kumar-sahu-85549a384/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:hey.rajasahu@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/raja-kumar-sahu-85549a384/"><img src="https://img.shields.io/badge/LinkedIn-Connect-355C6E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hey.rajasahu@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20me-203A43?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/RajaSahu72"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=RajaSahu72&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/RajaSahu72?style=for-the-badge&color=6D28D9&logo=github&label=FOLLOWERS"/>
-  <img src="https://img.shields.io/github/stars/RajaSahu72?style=for-the-badge&color=4A00E0&logo=github&label=STARS"/>
+  <img src="https://komarev.com/ghpvc/?username=RajaSahu72&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/RajaSahu72?style=for-the-badge&color=D6E2E9&logo=github&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/RajaSahu72?style=for-the-badge&color=0F2027&logo=github&label=STARS"/>
 </p>
 
 </div>
@@ -31,15 +31,15 @@
 
 ## 👨‍💻 About Me
 
-Hi there! 👋 I'm **Raja Kumar Sahu**, a passionate software developer who enjoys building scalable applications and solving challenging programming problems.
+Hi there! I'm **Raja Kumar Sahu**, a passionate software developer who enjoys building scalable applications and solving challenging programming problems.
 
-* 💻 Java Developer with a strong foundation in Object-Oriented Programming.
-* 🌱 Currently learning the **MERN Stack** (MongoDB, Express.js, React, Node.js).
-* 🧠 Passionate about **Data Structures & Algorithms** and solving coding challenges.
-* 🚀 Love building full-stack web applications and exploring new technologies.
-* 📚 Continuously improving my problem-solving and system design skills.
-* 🎯 Goal: Become a skilled Full-Stack Software Engineer.
-* ⚡ Fun Fact: I enjoy turning complex problems into simple, efficient solutions.
+*  Java Developer with a strong foundation in Object-Oriented Programming.
+*  Currently learning the **MERN Stack** (MongoDB, Express.js, React, Node.js).
+*  Passionate about **Data Structures & Algorithms** and solving coding challenges.
+*  Love building full-stack web applications and exploring new technologies.
+*  Continuously improving my problem-solving and system design skills.
+*  Goal: Become a skilled Full-Stack Software Engineer.
+*  Fun Fact: I enjoy turning complex problems into simple, efficient solutions.
 
 
 ## 🧰 Tech Stack
