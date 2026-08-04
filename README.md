@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:8E2DE2,100:4A00E0&text=Raja%20Kumar%20Sahu&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=DSA%20%7C%20Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Raja%20Kumar%20Sahu&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=DSA%20%7C%20Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18"/>
 
 <a href="https://github.com/RajaSahu72">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Java+Developer;Data+Structures+%26+Algorithms;Exploring+Software+Development;MERN+Stack+Learner" alt="Typing SVG"/>
@@ -85,5 +85,5 @@ Hi there! 👋 I'm **Raja Kumar Sahu**, a passionate software developer who enjo
 <div align="center">
 <i>"Code with purpose. Build what matters."</i>
 <br/><br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4A00E0,100:8E2DE2&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
 </div>
