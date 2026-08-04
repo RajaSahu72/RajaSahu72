@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:8E2DE2,100:4A00E0&text=Raja%20Kumar%20Sahu&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=DSA%20%7C%20Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18"/>
 
 <a href="https://github.com/RajaSahu72">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Java+%E2%80%A2+MERN+Stack+%E2%80%A2+GenAI+APIs;Java+%7C+Java Script+%7C+React+%7C+Next.js;BSC+(CA)+%E2%80%A2" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+production+LLM+applications;RAG+%E2%80%A2+AI+Agents+%E2%80%A2+GenAI+APIs;Python+%7C+FastAPI+%7C+React+%7C+Next.js;BSC+(CA)+%E2%80%A2+SWE+Intern" alt="Typing SVG"/>
 </a>
 
 <p>
@@ -14,7 +14,6 @@
 </p>
 
 <p>
-  //portfolio
   <a href="https://www.linkedin.com/in/raja-kumar-sahu-85549a384/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:hey.rajasahu@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/RajaSahu72"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -47,7 +46,7 @@ Hi there! 👋 I'm **Raja Kumar Sahu**, a passionate software developer who enjo
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,js,,cpp" />
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp" />
 
 **Frontend**
 
@@ -75,7 +74,6 @@ Hi there! 👋 I'm **Raja Kumar Sahu**, a passionate software developer who enjo
 
 <div align="center">
 
-// Portfolio
 <a href="mailto:hey,rajasahu@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/raja-kumar-sahu-85549a384/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/RajaSahu72"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
