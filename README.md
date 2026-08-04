@@ -58,7 +58,7 @@ Hi there! I'm **Raja Kumar Sahu**, a passionate software developer who enjoys bu
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 ---
 # 📊 GitHub Stats:
@@ -83,7 +83,7 @@ Hi there! I'm **Raja Kumar Sahu**, a passionate software developer who enjoys bu
 ---
 
 <div align="center">
-<i>"Code with purpose. Build what matters."</i>
+<i>"The more you sweat in Training, The less you Bleed in war"</i>
 <br/><br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
 </div>
